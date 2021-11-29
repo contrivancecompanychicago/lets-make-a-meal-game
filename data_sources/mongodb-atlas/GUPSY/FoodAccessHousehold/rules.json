@@ -8,6 +8,7 @@
                 "Food1": "%%user.id"
             },
             "fields": {
+                "Chicago": {},
                 "Choose My Plate": {},
                 "My Plate": {},
                 "US Food Pyramid": {}
@@ -23,6 +24,7 @@
             "name": "non-owner",
             "apply_when": {},
             "fields": {
+                "Chicago": {},
                 "Choose My Plate": {},
                 "My Plate": {},
                 "US Food Pyramid": {}
