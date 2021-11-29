@@ -1,1 +1,10 @@
-{}
+{
+    "properties": {
+        "GUPSYFood": {
+            "bsonType": "objectId"
+        }
+    },
+    "required": [
+        "GUPSYFood"
+    ]
+}

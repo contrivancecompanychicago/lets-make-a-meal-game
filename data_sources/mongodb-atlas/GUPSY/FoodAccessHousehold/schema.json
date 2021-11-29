@@ -1,4 +1,11 @@
 {
-    "properties": {},
+    "properties": {
+        "GUPSYFood": {
+            "bsonType": "objectId"
+        }
+    },
+    "required": [
+        "GUPSYFood"
+    ],
     "title": "FoodAccessHousehold"
 }
