@@ -7,6 +7,13 @@
             "apply_when": {
                 "GUPSYClinics1": "%%user.id"
             },
+            "fields": {
+                "Age": {},
+                "Class": {},
+                "GUPSY Health Belief Remixed": {},
+                "Gender": {},
+                "Patient Belief Map": {}
+            },
             "read": true,
             "write": true,
             "insert": true,
@@ -17,6 +24,13 @@
         {
             "name": "non-owner",
             "apply_when": {},
+            "fields": {
+                "Age": {},
+                "Class": {},
+                "GUPSY Health Belief Remixed": {},
+                "Gender": {},
+                "Patient Belief Map": {}
+            },
             "read": true,
             "write": false,
             "insert": false,
