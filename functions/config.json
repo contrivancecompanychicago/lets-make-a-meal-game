@@ -1,6 +1,7 @@
 [
     {
         "name": "GUPSqlY",
-        "private": false
+        "private": false,
+        "can_evaluate": {}
     }
 ]
