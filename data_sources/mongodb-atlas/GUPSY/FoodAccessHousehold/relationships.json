@@ -1,8 +1,0 @@
-{
-    "GUPSYFood": {
-        "ref": "#/relationship/mongodb-atlas/GUPSY/FoodAccessHousehold",
-        "source_key": "GUPSYFood",
-        "foreign_key": "GUPSYFood",
-        "is_list": false
-    }
-}
