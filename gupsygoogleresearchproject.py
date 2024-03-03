@@ -13,6 +13,7 @@ Original file is located at
 # Markdown
 ```
 """
+import statistics
 
 patient = 'AfricanAmerican'
 

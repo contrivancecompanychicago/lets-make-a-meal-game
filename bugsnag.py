@@ -14,4 +14,3 @@ app = Flask(__name__)
 handle_exceptions(app)
 
 bugsnag.notify(Exception('Test error'))
-
