@@ -9,9 +9,14 @@ bugsnag.configure(
 
 from bugsnag.flask import handle_exceptions
 
+bugsnag.notify(Exception('Test error'))
+
+
+
+
 
 app = Flask(__name__)
 handle_exceptions(app)
 
-bugsnag.notify(Exception('Test error'))
+
 
